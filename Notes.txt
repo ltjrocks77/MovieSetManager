@@ -1,0 +1,14 @@
+﻿//Sets DB
+myvideos93.sets
+
+//Sets db Fields
+idSet - int - example : 1
+strSet - string - example : Harry Potter Collection
+
+//Get all from Sets DB
+SELECT * FROM myvideos93.sets s;
+
+//Maps
+myvideos93.sets  -   myvideos93.art
+	idSet		 -      media_id
+

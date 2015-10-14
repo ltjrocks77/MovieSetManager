@@ -36,5 +36,13 @@ namespace MovieSetManager
             //TODO Implement Logic
             MessageBox.Show("Image Clicked");
         }
+
+        /// <summary>
+        /// Scrapes the Movie Set Artwork folder
+        /// </summary>
+        public void ScanScrapeMovieSetFolder()
+        {
+            throw new NotImplementedException;
+        }
     }
 }

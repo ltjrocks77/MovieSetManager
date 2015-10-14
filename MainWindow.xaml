@@ -12,20 +12,20 @@
         </Menu>
         <Grid Margin="0">
             <DataGrid x:Name="SetMainDataGrid" HorizontalAlignment="Left" Margin="10,52,0,0" Height="542" Width="264"/>
-            <Canvas Height="Auto" Margin="279,52,0,0" Width="Auto" Background="Gray">
-                <Image x:Name="FanArtImage" Height="414" Canvas.Left="10" Canvas.Top="10" Width="495" Source="D:\Movie Set Artwork\Back to the Future Collection-fanart.jpg" VerticalAlignment="Top"/>
-                <Image x:Name="LandScapeImage" Height="100" Canvas.Left="10" Canvas.Top="305" Width="160" Source="D:\Movie Set Artwork\Back to the Future Collection-landscape.jpg" OpacityMask="Gray" MouseDown="image_MouseDown"/>
-                <Image x:Name="LogoImage" Height="100" Canvas.Left="175" Canvas.Top="305" Width="140" Source="D:\Movie Set Artwork\Back to the Future Collection-logo.png"/>
-                <Image x:Name="PosterImage" Height="175" Canvas.Left="320" Canvas.Top="305" Width="138" Source="D:\Movie Set Artwork\Back to the Future Collection-poster.jpg"/>
-                <Image x:Name="BannerImage" Height="73" Canvas.Left="10" Canvas.Top="410" Width="283" Source="D:\Movie Set Artwork\Back to the Future Collection-banner.jpg"/>
-                <GroupBox Canvas.Top="480" Height="62" Width="505" Header="Plot" BorderBrush="Black">
-                    <GroupBox.Background>
-                        <SolidColorBrush Color="{DynamicResource {x:Static SystemColors.ControlColorKey}}"/>
-                    </GroupBox.Background>
-                    <TextBox x:Name="textBox" Height="Auto" TextWrapping="Wrap" Text="" Width="Auto"/>
-                </GroupBox>
-            </Canvas>
+            <Canvas Height="Auto" Margin="279,52,-0.4,79.4" Width="Auto" Background="Gray">
+                <Image x:Name="FanArtImage" Height="414" Canvas.Left="10" Canvas.Top="10" Width="495" Source="E:\SourceCode\MovieSetManager\Test Files\Back to the Future Collection-fanart.jpg" VerticalAlignment="Top"/>
+                <Image x:Name="LandScapeImage" Height="100" Canvas.Left="10" Canvas.Top="305" Width="160" Source="E:\SourceCode\MovieSetManager\Test Files\Back to the Future Collection-landscape.jpg" OpacityMask="Gray" MouseDown="image_MouseDown"/>
+                <Image x:Name="LogoImage" Height="100" Canvas.Left="207" Canvas.Top="305" Width="140" Source="E:\SourceCode\MovieSetManager\Test Files\Back to the Future Collection-logo.png"/>
+                <Image x:Name="PosterImage" Height="175" Canvas.Left="367" Canvas.Top="290" Width="138" Source="E:\SourceCode\MovieSetManager\Test Files\Back to the Future Collection-poster.jpg"/>
+                <Image x:Name="BannerImage" Height="73" Canvas.Left="10" Canvas.Top="410" Width="283" Source="E:\SourceCode\MovieSetManager\Test Files\Back to the Future Collection-banner.jpg"/>
 
+            </Canvas>
+            <GroupBox Height="62" Width="505" Header="Plot" BorderBrush="Black" Margin="279,532,21.6,12.4">
+                <GroupBox.Background>
+                    <SolidColorBrush Color="{DynamicResource {x:Static SystemColors.ControlColorKey}}"/>
+                </GroupBox.Background>
+                <TextBox x:Name="textBox" Height="Auto" TextWrapping="Wrap" Text="" Width="Auto"/>
+            </GroupBox>
         </Grid>
     </Grid>
 </Window>
