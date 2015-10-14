@@ -1,0 +1,14 @@
+I:\SourceCode\Scratch\MovieSetManager\MovieSetManager\bin\Debug\MovieSetManager.exe.config
+I:\SourceCode\Scratch\MovieSetManager\MovieSetManager\bin\Debug\MovieSetManager.exe
+I:\SourceCode\Scratch\MovieSetManager\MovieSetManager\bin\Debug\MovieSetManager.pdb
+I:\SourceCode\Scratch\MovieSetManager\MovieSetManager\obj\Debug\MovieSetManager.csprojResolveAssemblyReference.cache
+I:\SourceCode\Scratch\MovieSetManager\MovieSetManager\obj\Debug\MainWindow.g.cs
+I:\SourceCode\Scratch\MovieSetManager\MovieSetManager\obj\Debug\App.g.cs
+I:\SourceCode\Scratch\MovieSetManager\MovieSetManager\obj\Debug\MovieSetManager_MarkupCompile.cache
+I:\SourceCode\Scratch\MovieSetManager\MovieSetManager\obj\Debug\MovieSetManager_MarkupCompile.lref
+I:\SourceCode\Scratch\MovieSetManager\MovieSetManager\obj\Debug\MainWindow.baml
+I:\SourceCode\Scratch\MovieSetManager\MovieSetManager\obj\Debug\MovieSetManager.g.resources
+I:\SourceCode\Scratch\MovieSetManager\MovieSetManager\obj\Debug\MovieSetManager.Properties.Resources.resources
+I:\SourceCode\Scratch\MovieSetManager\MovieSetManager\obj\Debug\MovieSetManager.csproj.GenerateResource.Cache
+I:\SourceCode\Scratch\MovieSetManager\MovieSetManager\obj\Debug\MovieSetManager.exe
+I:\SourceCode\Scratch\MovieSetManager\MovieSetManager\obj\Debug\MovieSetManager.pdb
