@@ -25,8 +25,15 @@ namespace MovieSetManager
             InitializeComponent();
         }
 
+        //TODO Change event handler name
+        /// <summary>
+        /// Event Handler for the Landscape Image
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void image_MouseDown(object sender, MouseButtonEventArgs e)
         {
+            //TODO Implement Logic
             MessageBox.Show("Image Clicked");
         }
     }
